@@ -1,0 +1,4 @@
+pokemon:
+  base_url: https://pokeapi.co/api/v2/pokemon
+s3:
+  bucket: cm28299-spark
